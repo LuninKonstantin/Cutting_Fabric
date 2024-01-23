@@ -1,0 +1,14 @@
+D:\Cutting_Fabric\Cutting_Fabric\bin\Debug\Cutting_Fabric.exe.config
+D:\Cutting_Fabric\Cutting_Fabric\bin\Debug\Cutting_Fabric.exe
+D:\Cutting_Fabric\Cutting_Fabric\bin\Debug\Cutting_Fabric.pdb
+D:\Cutting_Fabric\Cutting_Fabric\obj\Debug\Cutting_Fabric.csproj.AssemblyReference.cache
+D:\Cutting_Fabric\Cutting_Fabric\obj\Debug\MainWindow.baml
+D:\Cutting_Fabric\Cutting_Fabric\obj\Debug\MainWindow.g.cs
+D:\Cutting_Fabric\Cutting_Fabric\obj\Debug\App.g.cs
+D:\Cutting_Fabric\Cutting_Fabric\obj\Debug\Cutting_Fabric_MarkupCompile.cache
+D:\Cutting_Fabric\Cutting_Fabric\obj\Debug\Cutting_Fabric.g.resources
+D:\Cutting_Fabric\Cutting_Fabric\obj\Debug\Cutting_Fabric.Properties.Resources.resources
+D:\Cutting_Fabric\Cutting_Fabric\obj\Debug\Cutting_Fabric.csproj.GenerateResource.cache
+D:\Cutting_Fabric\Cutting_Fabric\obj\Debug\Cutting_Fabric.csproj.CoreCompileInputs.cache
+D:\Cutting_Fabric\Cutting_Fabric\obj\Debug\Cutting_Fabric.exe
+D:\Cutting_Fabric\Cutting_Fabric\obj\Debug\Cutting_Fabric.pdb
